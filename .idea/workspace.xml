@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6d4261c-bb16-4fa3-8953-279cfc8c24b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/A_Midsummer_Night_s_Dream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/All_s_Well_That_Ends_Well.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Antony_and_Cleopatra.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/As_You_Like_It.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Cymbeline.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/King_Lear.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Loves_Labours_Lost.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Measure_for_Measure.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Much_Ado_About_Nothing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Othello_the_Moore_of_Venice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Pericles,_Prince_of_Tyre.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Romeo_and_Juliet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Comedy_of_Errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_First_part_of_King_Henry_the_Fourth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_First_part_of_King_Henry_the_Sixth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Life_and_Death_of_Julies_Caesar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Life_and_Death_of_King_John.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Life_and_Death_of_Richard_the_Second.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Life_and_Death_of_Richard_the_Third.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Life_of_King_Henry_the_Eight.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Life_of_King_Henry_the_Fifth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Merchant_of_Venice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Merry_Wives_of_Windsor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Second_part_of_King_Henry_the_Fourth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Second_part_of_King_Henry_the_Sixth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Taming_of_the_Shrew.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Tempest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Third_part_of_King_Henry_the_Sixth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Tragedy_of_Coriolanus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Tragedy_of_Hamlet_Prince_of_Denmark.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/The_Tragedy_of_Macbeth.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Timon_of_Athens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Titus_Andronicus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Troilus_and_Cressida.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Twelfth_Night.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Two_Gentlemen_of_Verona.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/Winter_s_Tale.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/All's Well That Ends Well  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Antony and Cleopatra  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/As You Like It  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Comedy of Errors  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Coriolanus  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Cymbeline  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Hamlet  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Henry IV, part 1  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Henry IV, part 2  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Henry V  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Henry VI, part 1  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Henry VI, part 2  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Henry VI, part 3  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Henry VIII  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Julius Caeser  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/King John  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/King Lear  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Love's Labour's Lost  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Macbeth  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Measure for Measure  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Merchant of Venice  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Merry Wives of Windsor  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Midsummer Night's Dream  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Much Ado About Nothing  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Othello  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Pericles  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Richard II  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Richard III  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Romeo and Juliet  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Taming of the Shrew  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/The Tempest  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Timon of Athens  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Titus Andronicus  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Troiles and Cressida  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Twelfth Night  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Two Gentlemen of Verona  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection_html/Winter's Tale  Entire Play.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsoup-1.15.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InvertedIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stop_words.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ha2Ue6InuEK8OpcRmLS6itcZoH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/akgon/OneDrive/Рабочий стол/lib/libstemmer_java-2.2.0/java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.scopes"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6d4261c-bb16-4fa3-8953-279cfc8c24b6" name="Changes" comment="" />
+      <created>1668508892619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668508892619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
